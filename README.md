@@ -1,26 +1,30 @@
-<div align="center">
+<p align="center">
 
-<a href="https://nithiya.gitlab.io">
-  <img src="https://img.shields.io/badge/Website-white?style=for-the-badge&labelColor=white" alt="Website">
-</a>
+  <a href="https://nithiya.gitlab.io">
+    <img src="https://img.shields.io/badge/Website-white?style=for-the-badge&labelColor=white" alt="Website">
+  </a>
 
-<a href="https://gitlab.com/nithiya">
-  <img src="https://img.shields.io/badge/GitLab-white?style=for-the-badge&logo=gitlab" alt="GitLab">
-</a>
+  <a href="https://gitlab.com/nithiya">
+    <img src="https://img.shields.io/badge/GitLab-white?style=for-the-badge&logo=gitlab" alt="GitLab">
+  </a>
 
-<a href="https://github.com/nmstreethran">
-  <img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black" alt="GitHub">
-</a>
+  <a href="https://github.com/nmstreethran">
+    <img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black" alt="GitHub">
+  </a>
 
-<a href="https://twitter.com/nmstreethran">
-  <img src="https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter" alt="Twitter">
-</a>
+  <a href="https://twitter.com/nmstreethran">
+    <img src="https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter" alt="Twitter">
+  </a>
 
-<a href="https://www.linkedin.com/in/nmstreethran/">
-  <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn">
-</a>
+  <a href="https://www.linkedin.com/in/nmstreethran/">
+    <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn">
+  </a>
 
-</div>
+  <a href="https://orcid.org/0000-0003-0575-5798">
+    <img src="https://img.shields.io/badge/ORCID-white?style=for-the-badge&logo=orcid" alt="ORCID">
+  </a>
+
+</p>
 
 Hello! My name is Nithiya Streethran. My interests include (but are not limited to):
 
