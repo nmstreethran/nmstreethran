@@ -26,15 +26,17 @@
 
 </p>
 
-Hello! My name is Nithiya Streethran. My interests include (but are not limited to):
+Hello! My name is Nithiya Streethran. I'm currently pursuing a master's degree in Geographical Information Systems. I have a background in Renewable Energy Engineering and Mechanical Engineering.
+
+My interests include (but are not limited to):
 
 - mathematical modelling for energy, environmental, and climate applications
 - open-source scientific programming, data management, and software development
 - education and research focussed on the Sustainable Development Goals
 
-I'm a self-taught programmer who primarily uses Python, LaTeX, and Shell on Linux and Microsoft Windows. I enjoy walking, nature, and RPGs. 💚
+I'm a self-taught programmer who primarily uses Python, LaTeX, and Shell on Linux and Microsoft Windows. I enjoy walking, nature, and RPGs.
 
-Feel free to contact me if you find my profile interesting.
+Thanks for stopping by, and feel free to contact me if you find my profile interesting! 😄💚
 
 *Text: [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)* \
 *Badges: [Shields.io](https://shields.io/) ([CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/))*
