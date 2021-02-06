@@ -28,7 +28,7 @@
 
 Hello! My name is Nithiya Streethran. I'm currently pursuing a master's degree in Geographical Information Systems. I have a background in Renewable Energy Engineering and Mechanical Engineering.
 
-My studies focus on the intersection of renewable energy technologies, mathematical modelling, and GIS. More specifically, I'm interested in the planning and decomissioning phases of wind, solar, and hybrid renewable energy projects, as well as their environmental and societal impacts.
+My studies focus on the intersection of renewable energy technologies, mathematical modelling, and GIS. More specifically, I'm interested in the planning and decommissioning phases of wind, solar, and hybrid renewable energy projects, as well as their environmental and societal impacts.
 
 I enjoy programming (including Python and Shell scripting) and typesetting with LaTeX, in both Linux and Microsoft Windows systems. I've lived in Malaysia, the UK (Scotland), and Norway. Among other things, I like role-playing games (especially the Elder Scrolls), nature, and all things open-source.
 
