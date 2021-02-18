@@ -12,10 +12,6 @@
     <img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black" alt="GitHub">
   </a>
 
-  <a href="https://twitter.com/nmstreethran">
-    <img src="https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter" alt="Twitter">
-  </a>
-
   <a href="https://www.linkedin.com/in/nmstreethran/">
     <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn">
   </a>
