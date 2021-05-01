@@ -1,13 +1,14 @@
 # Hello!
 
-I'm currently pursuing a master's degree in Geographical Information Systems. I previously studied Renewable Energy Engineering and Mechanical Engineering.
+I am a master's student in Geographical Information Systems at the University of Aberdeen. I have a background in Renewable Energy Engineering and 2.5 years of research experience spanning industry, academia, and the public sector.
 
-My studies focus on the intersection of renewable energy technologies, mathematical modelling, and GIS. I'm specifically interested in the planning and decommissioning phases of wind, solar, and hybrid renewable energy projects, as well as their environmental and societal impacts.
+My interests lie at the intersection of geospatial technologies and mathematical modelling for quantifying the environmental and societal benefits and costs of renewable energy development. I am proficient in handling, analysing, and representing large quantities of spatial and temporal data using industry tools and programming languages, including Python, R, and QGIS. I am also familiar with operating command-line interfaces and writing shell scripts in Linux and Microsoft Windows through the frequent use of software on both platforms. I am passionate about using open source software and open data to improve public participation in environmental decision making.
 
-I enjoy programming (in Python, Shell scripting, and R) and typesetting in LaTeX. Among other things, I like role-playing games, nature, and all things open-source.
+Having lived in three countries in Europe and Asia, I have experience collaborating with a diverse range of people and stakeholders in both professional and casual settings. Among other things, I enjoy role-playing games, nature walks, and typesetting in LaTeX.
 
-Thanks for stopping by, and feel free to contact me if you find my profile interesting! 😄💚
+Thank you for stopping by, and please feel free to contact me if you find my profile interesting!
 
+*Email*: githubusername at gmail dot com \
 *Links:*
 [![Website](https://img.shields.io/badge/Website-white)](https://nithiya.gitlab.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black)](https://github.com/nmstreethran)
