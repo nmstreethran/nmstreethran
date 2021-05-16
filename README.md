@@ -1,4 +1,4 @@
-**Hello!**
+# Hello!
 
 I am a master's student in Geographical Information Systems at the University of Aberdeen. I have a background in Renewable Energy Engineering and 2.5 years of research experience spanning industry, academia, and the public sector.
 
@@ -10,13 +10,10 @@ Having lived in three countries in Europe and Asia, I have experience collaborat
 
 Thank you for stopping by, and please feel free to contact me if you find my profile interesting!
 
----
-
 *Email:* nmstreethran at gmail dot com \
 *Links:*
 [![Website](https://img.shields.io/badge/Website-white)](https://nithiya.gitlab.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black)](https://github.com/nmstreethran)
 [![GitLab](https://img.shields.io/badge/GitLab-white?logo=gitlab)](https://gitlab.com/nithiya)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-white?logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/nmstreethran/) \
-*Text:* [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) \
-*Badges:* [Shields.io](https://shields.io/) ([CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/))
+*License:* [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) (text) / [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/) (Badges by [Shields.io](https://shields.io/))
