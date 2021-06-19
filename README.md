@@ -1,12 +1,14 @@
-# Hello!
+### Hello there! 😄
 
-I am a master's student in Geographical Information Systems at the University of Aberdeen. I have a background in Renewable Energy Engineering and 2.5 years of research experience spanning industry, academia, and the public sector.
+A few things about me:
 
-My interests lie at the intersection of geospatial technologies and mathematical modelling for quantifying the environmental and societal benefits and costs of renewable energy development. I am passionate about using open source software and open data to improve public participation in environmental decision making.
-
-I am proficient in handling, analysing, and representing large quantities of spatial and temporal data using industry tools and programming languages, including Python, R, and QGIS. I am also familiar with operating command-line interfaces and writing shell scripts in Linux and Microsoft Windows through the frequent use of software on both platforms.
-
-Having lived in three countries in Europe and Asia, I have experience collaborating with a diverse range of people and stakeholders in both professional and casual settings. Among other things, I enjoy role-playing games, nature walks, and typesetting in LaTeX.
+- I'm currently a master's student in Geographical Information Systems at the University of Aberdeen.
+- I'm interested in using open source software and data to enhance renewable energy development and public participation in environmental decision making.
+- Some tools I use to handle, analyse, and visualise spatial and temporal data are Python, R, and QGIS.
+- I'm also familiar with shell scripts and command line interfaces in Linux and Microsoft Windows.
+- I enjoy role-playing and story-rich games, nature walks, and typesetting in LaTeX.
+- I've lived in Malaysia, Norway, and the UK.
+- My pronouns are she/her.
 
 Thank you for stopping by, and please feel free to contact me if you find my profile interesting!
 
@@ -16,4 +18,4 @@ Thank you for stopping by, and please feel free to contact me if you find my pro
 [![GitHub](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black)](https://github.com/nmstreethran)
 [![GitLab](https://img.shields.io/badge/GitLab-white?logo=gitlab)](https://gitlab.com/nithiya)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-white?logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/nmstreethran/) \
-*License:* [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) (text) / [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/) (Badges by [Shields.io](https://shields.io/))
+*License:* [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) (text) / [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/) (badges by [Shields.io](https://shields.io/))
