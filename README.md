@@ -16,7 +16,8 @@ Thank you for stopping by, and please feel free to contact me if you find my pro
 *Email:* nmstreethran at gmail dot com \
 *Links:*
 [![Website](https://img.shields.io/badge/Website-white)](https://nithiya.gitlab.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black)](https://github.com/nmstreethran)
+[![GitHub](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=161b22)](https://github.com/nmstreethran)
 [![GitLab](https://img.shields.io/badge/GitLab-white?logo=gitlab)](https://gitlab.com/nithiya)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/nmstreethran/) \
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?logo=linkedin&logoColor=0077b5)](https://www.linkedin.com/in/nmstreethran/)
+[![Steam](https://img.shields.io/badge/Steam-white?logo=steam&logoColor=171a21)](https://www.linkedin.com/in/nmstreethran/) \
 *License:* [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) (text) / [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/) (badges by [Shields.io](https://shields.io/))
